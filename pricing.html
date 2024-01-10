@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pricing-Component</title>
+    <link rel="stylesheet" href="./CSS/pricing.css">
+    <link rel="icon" sizes="32x32" type="image/png" href="./imgs/favicon-32x32.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;800&display=swap" rel="stylesheet">
+  </head>
+  <body>
+
+    <main class="container">
+
+      <header>
+        <h1>Simple, traffic-based pricing</h1>
+        <p>Sign-up for our 30-day trial, No credit card required</p>
+      </header>
+
+      <aside>
+        <!-- price bar monthly or yearly -->
+        <div class="tarrif">
+          <div class="page-views">
+            <span>100k</span> pageviews
+          </div>
+          <div class="price">
+            <span>$ <span class="pricefix">16</span>.00</span>
+            <span class="month">/month</span>
+          </div>
+        </div>
+        <!-- progress bar -->
+        <div class="progress">
+          <div class="progress-bar">
+            <input type="range" min="1" max="5" step="1" value="3" class="myRange">
+          </div>
+          <!-- switch between monthly and yearly prices -->
+          <div class="monthly">
+            <span>Monthly Billing</span>
+            <label class="switch">
+              <input type="checkbox">
+              <span class="slider"></span>
+            </label>
+            <span>Yearly Billing</span>
+            <span class="discount">25% discount</span>
+          </div>
+        </div>
+
+        <hr>
+
+        <!-- Features -->
+        <div class="start">
+          <ul>
+            <li>Unlimited website</li>
+            <li>100% data ownership</li>
+            <li>Email reports</li>
+          </ul>
+          <button>Start my trial</button>
+        </div>
+      </aside>
+    </main>
+    <a href="./index.html">Back to home</a>
+    <script src="./JS/app.js"></script>
+  </body>
+</html>
