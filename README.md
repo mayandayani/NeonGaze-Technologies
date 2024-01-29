@@ -28,4 +28,9 @@ Working through challenges of not know how to create the desired component.
 
 <h3 align="left">Ideal Result</h3>
 
-![](NGT - GIF.gif)
+![Gif of Neon Gaze Technologies website](NGT-GIF.gif)
+
+If given more time:
+- Adding more components such as Header About, Services, and Contact
+- Adjuments to Desktop and Mobile layout
+- Fixing the image carousel not loading first image on website start
