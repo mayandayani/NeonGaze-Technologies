@@ -1,6 +1,9 @@
 # NeonGaze-Technologies
 NeonGaze, a trailblazing tech haven, pioneers augmented reality experiences, merging cutting-edge tech with urban dynamism.
 
+Link:
+https://mayandayani.github.io/NeonGaze-Technologies/
+
 Company Description - NeonGaze:
 NeonGaze, an avant-garde tech powerhouse, is a beacon of innovation in the realm of augmented reality. Fusing cutting-edge technology with urban vibrancy, NeonGaze redefines the landscape of everyday experiences. At NeonGaze, we envision a future where reality is enhanced, where the ordinary becomes extraordinary through our commitment to pioneering advancements.
 
@@ -16,6 +19,7 @@ Embark on a transformative visual journey with NeonGaze's QuantumLink AR Lens. Q
 <h3 align="left">Intention</h3>
 
 Goal: Collaborative front-end project to showcase knowledge and skillset of HTML, CSS and JS.
+
 Vision: Futuristic technology e-commerce website.
 
 <h3 align="left">Reflection</h3>
@@ -27,8 +31,6 @@ Troubleshooting collaboratively.
 Working through challenges of not know how to create the desired component.
 
 <h3 align="left">Ideal Result</h3>
-
-https://mayandayani.github.io/NeonGaze-Technologies/
 
 If given more time:
 - Adding more components such as Header About, Services, and Contact
