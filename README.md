@@ -18,17 +18,16 @@ Embark on a transformative visual journey with NeonGaze's QuantumLink AR Lens. Q
 
 <h3 align="left">Intention</h3>
 
-Goal: Collaborative front-end project to showcase knowledge and skillset of HTML, CSS and JS.
-
-Vision: Futuristic technology e-commerce website.
+- Goal: Collaborative front-end project to showcase knowledge and skillset of HTML, CSS and JS.
+- Vision: Futuristic technology e-commerce website.
 
 <h3 align="left">Reflection</h3>
 
-How to work code in a group project by utilizing git properly to pull and push repos.
-Coordinating and scheduling tasks, objectives, and timelines.
-Assigning tasks and ensuring accountability.
-Troubleshooting collaboratively.
-Working through challenges of not know how to create the desired component.
+- How to work code in a group project by utilizing git properly to pull and push repos.
+- Coordinating and scheduling tasks, objectives, and timelines.
+- Assigning tasks and ensuring accountability.
+- Troubleshooting collaboratively.
+- Working through challenges of not know how to create the desired component.
 
 <h3 align="left">Ideal Result</h3>
 
