@@ -28,7 +28,7 @@ Working through challenges of not know how to create the desired component.
 
 <h3 align="left">Ideal Result</h3>
 
-![Gif of Neon Gaze Technologies website](NGT-GIF.gif)
+https://mayandayani.github.io/NeonGaze-Technologies/
 
 If given more time:
 - Adding more components such as Header About, Services, and Contact
